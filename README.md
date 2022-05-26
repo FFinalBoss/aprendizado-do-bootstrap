@@ -1,1 +1,4 @@
 # aula-bootstrap
+
+<h2> Mas o que é Bootstrap? </h2>
+<h3> É um framework CSS que organiza e gerencia o layout de um site. E nesse repositório está um site usando o Booststrap </h3>
